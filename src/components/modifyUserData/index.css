@@ -1,0 +1,42 @@
+.deleteButton{
+    color: aliceblue;
+    background-color: red;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.deleteButton:hover{
+    background-color: darkred;
+    color: white;
+}
+.editButton{
+    color: aliceblue;
+    background-color: green;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.editButton:hover{
+    background-color: darkgreen;
+    color: white;
+}
+
+.submitButton{
+    color: white;
+    background-color: blue;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.submitButton:hover{
+    background-color: darkblue;
+}
